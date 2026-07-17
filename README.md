@@ -61,14 +61,17 @@ Files are available in 3D/Airmote.f3z
 
 |Item|Count|Price|Link|
 |--|--|--|--|
-|Seeed Studio XIAO ESP32-C6|1|$5.20|[Seeed Studio](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html)
-|**3mm 940nm IR LED***|4|$1.47/lot|[Aliexpress](https://www.aliexpress.com/item/1005002345587711.html)
-|**2N2222 transistor***|1|$3.75/lot|[Aliexpress](https://www.aliexpress.com/item/1005010396511377.html)  (Select 2n2222 in the listing)
-|**220 Ohm resistor***|1|$0.63/lot|[Aliexpress](https://www.aliexpress.com/item/1005002489867848.html) (Select 220R in the listing)
-|**47 Ohm resistor***|4|$0.63/lot|[Aliexpress](https://www.aliexpress.com/item/1005002489867848.html) (Select 47R in the listing)
-|BME280 sensor breakout board|1|$4.00|[Aliexpress](https://www.aliexpress.com/item/1005012601108975.html)
-|**Heat brass inserts***|4|$7.09/lot|[Aliexpress](https://www.aliexpress.com/item/1005006798286851.html) (Select M2(OD3mm) and 2mm length)
-|**M2 Screws***|4|$3.85/lot|[Aliexpress](https://www.aliexpress.com/item/4000038065691.html)
+|Seeed Studio XIAO ESP32-C6|1|$5.20|[Seeed Studio](https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32C6-p-5884.html)|
+|**3mm 940nm IR LED***|4|$1.47/lot|[Aliexpress](https://www.aliexpress.com/item/1005002345587711.html)|
+|**2N2222 transistor***|1|$3.75/lot|[Aliexpress](https://www.aliexpress.com/item/1005010396511377.html)  (Select 2n2222 in the listing)|
+|**220 Ohm resistor***|1|$0.63/lot|[Aliexpress](https://www.aliexpress.com/item/1005002489867848.html) (Select 220R in the listing)|
+|**47 Ohm resistor***|4|$0.63/lot|[Aliexpress](https://www.aliexpress.com/item/1005002489867848.html) (Select 47R in the listing)|
+|BME280 sensor breakout board|1|$4.00|[Aliexpress](https://www.aliexpress.com/item/1005012601108975.html) (Select 5V or else it won't fit)|
+|**Heat brass inserts***|4|$7.09/lot|[Aliexpress](https://www.aliexpress.com/item/1005006798286851.html) (Select M2(OD3mm) and 2mm length)|
+|**M2 Screws***|4|$3.85/lot|[Aliexpress](https://www.aliexpress.com/item/4000038065691.html) (Select M2 10mm in the listing)|
+|Shipping||$63.05||
+
+**Total:$89.81**
 
 ***ONLY** buy the listing of **bolded** items ONCE. Those are sold as a lot and you will be getting 50/100pcs per listing bought.
 
