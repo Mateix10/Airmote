@@ -75,5 +75,7 @@ Files are available in 3D/Airmote.f3z
 # Credits
 
 [Hackclub Fallout](https://fallout.hackclub.com) - Founding
+
 [Kicad](https://kicad.org) - Schematic and PCB design
+
 [ESPHome](https://esphome.io) - Firmware
