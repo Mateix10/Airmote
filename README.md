@@ -22,11 +22,42 @@ For the firmware, use [ESPHome](https://esphome.io)
 
 [Install guide](https://esphome.io/guides/getting_started_hassio/)
 
+Code for the BME280 temperature sensor:
+
+```json
+sensor:
+  - platform: bme280_i2c
+    temperature:
+      name: "BME280 Temperature"
+    pressure:
+      name: "BME280 Pressure"
+    humidity:
+      name: "BME280 Humidity"
+```
+... and for the IR:
+
+```json
+remote_transmitter:
+  pin: GPIOXX
+  carrier_duty_percent: 50%
+
+climate:
+  - platform: REPLACEME     # you need to replpace the platform to your AC. See esphome documentation for more
+    name: "Living Room AC"
+    sensor: room_temperature
+    use_fahrenheit: false
+```
+
+Note: this is untested code.
+
+
 # Schematic and PCB
 
   
 
 The schematic and PCB are pretty simple, just connecting the LEDs to a 2n2222 transistor and accompanying resistors for protection.
+
+The BME 280 sensor is connected trough I2C. It's connected that way becaouse it simplifies the PCB and the sensor doesn't need fast data.
 
   
 
