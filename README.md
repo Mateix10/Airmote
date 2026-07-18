@@ -5,7 +5,9 @@
 
 Control any IR device and monitor room temperature, pressure and humidity with Home Assistant.
 
-  
+# Zine
+
+![Zine](Assets/Zine.png)
 
 # Why?
 
