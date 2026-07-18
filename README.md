@@ -24,7 +24,7 @@ For the firmware, use [ESPHome](https://esphome.io)
 
 Code for the BME280 temperature sensor:
 
-```json
+```yaml
 sensor:
   - platform: bme280_i2c
     temperature:
@@ -36,7 +36,7 @@ sensor:
 ```
 ... and for the IR:
 
-```json
+```yaml
 remote_transmitter:
   pin: GPIOXX
   carrier_duty_percent: 50%
