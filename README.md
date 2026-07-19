@@ -102,8 +102,9 @@ Files are available in 3D/Airmote.f3z
 |BME280 sensor breakout board|1|$4.00|[Aliexpress](https://www.aliexpress.com/item/1005012601108975.html) (Select 5V or else it won't fit)|
 |**Heat brass inserts***|4|$7.09/lot|[Aliexpress](https://www.aliexpress.com/item/1005006798286851.html) (Select M2(OD3mm) and 2mm length)|
 |**M2 Screws***|4|$3.85/lot|[Aliexpress](https://www.aliexpress.com/item/4000038065691.html) (Select M2 10mm in the listing)|
-|Shipping|-|$63.05|-|
-|**Total**|-|$89.81|-|
+|PCB|1|$2|[JLCPCB](https://jlcpcb.com)
+|Shipping|-|$69.39|-|
+|**Total**|-|$92.81|-|
 
 ***ONLY** buy the listing of **bolded** items ONCE. Those are sold as a lot and you will be getting 50/100pcs per listing bought.
 
