@@ -104,7 +104,7 @@ Files are available in 3D/Airmote.f3z
 |**M2 Screws***|4|$3.85/lot|[Aliexpress](https://www.aliexpress.com/item/4000038065691.html) (Select M2 10mm in the listing)|
 |PCB|1|$2|[JLCPCB](https://jlcpcb.com)
 |Shipping|-|$69.39|-|
-|**Total**|-|$92.81|-|
+|**Total**|-|$92.81|-| 
 
 ***ONLY** buy the listing of **bolded** items ONCE. Those are sold as a lot and you will be getting 50/100pcs per listing bought.
 
